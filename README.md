@@ -34,7 +34,7 @@ project-based data analysis and interpretation.
 <!-- <a href="https://twitter.com/fullstuckVishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/fullstuckVishal" height="30" width="40" /></a> -->
 <!-- <a href="https://www.instagram.com/Sanskrutee-Dudhe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/Sanskrutee-Dudhe/" height="30" width="40" /></a> -->
 </p>
-
+<br>
 ## ❤ Views and Followers
 
 <a href="https://github.com/Sanskrutee-Dudhe/github-profile-views-counter">
