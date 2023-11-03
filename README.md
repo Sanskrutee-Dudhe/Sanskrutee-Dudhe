@@ -6,6 +6,7 @@ manipulation, and visualization. Proficient in
 Python, Power BI, and SQL. Experienced in
 project-based data analysis and interpretation.
 </h3>
+
 <br/>
 
 ## 📊 Github Stats
