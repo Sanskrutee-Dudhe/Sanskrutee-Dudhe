@@ -1,4 +1,5 @@
 <h1 align="center" >Hi 👋, I'm Sanskritee</h1>
+<h2 align="center" >Hi 👋, I'm Sanskritee</h2>
 <h3 align="center">
 Enthusiastic fresher in data analytics with a
 strong foundation in statistical analysis, data
