@@ -1,11 +1,9 @@
 <h1 align="center" >Hi 👋, I'm Sanskritee</h1>
-<h2 align="center" >Hi 👋, I'm Sanskritee</h2>
+<h2 align="center" >Data Analyst | SQL | Power BI | Advanced Excel | Python</h2>
 <h3 align="center">
-Enthusiastic fresher in data analytics with a
-strong foundation in statistical analysis, data
-manipulation, and visualization. Proficient in
-Python, Power BI, and SQL. Experienced in
-project-based data analysis and interpretation.
+I’m a Data Analyst with 2+ years of experience in the BFSI industry, specializing in business analytics, sales performance analysis, recruitment analytics, and KPI reporting.
+
+I enjoy transforming raw data into meaningful business insights through data analysis, visualization, and automation.
 </h3>
 
 
